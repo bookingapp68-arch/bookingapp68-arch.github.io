@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.bookingapp68_arch.twa",
+        "sha256_cert_fingerprints": ["9F:EE:5A:CF:44:3D:C6:5C:6C:09:57:83:E5:78:62:9B:A7:04:84:03:CC:17:60:54:7A:CE:CA:4E:CD:A1:EE:15"]
+      }
+    }]
